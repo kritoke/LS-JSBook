@@ -1,0 +1,1 @@
+This repository is just exercises from the Launch School Javascript book.
