@@ -1,5 +1,5 @@
-function oddLengths(array) {
-  let oddArray = array.map(element => element.length);
+function oddLengths(charArray) {
+  let oddArray = charArray.map(element => element.length);
   return oddArray.filter(elmLength => elmLength % 2 !== 0);
 }
 
